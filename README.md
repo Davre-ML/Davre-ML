@@ -19,6 +19,8 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Reflex](https://img.shields.io/badge/Reflex-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 **Con experiencia en:**
 
